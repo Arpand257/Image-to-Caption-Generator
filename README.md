@@ -20,7 +20,6 @@ Image is preprocessed
 CNN extracts image features
 LSTM generates captions
 Caption is displayed to the user
-📂 Project Structure
 ├── app.py                  # Main web app
 ├── model/                  # Trained model files
 ├── static/                 # CSS / JS
@@ -29,7 +28,6 @@ Caption is displayed to the user
 ├── utils.py                # Helper functions
 ├── train.ipynb             # Training notebook
 └── README.md
-⚙️ Installation
 
 pip install -r requirements.txt
 ▶️ Run the App
